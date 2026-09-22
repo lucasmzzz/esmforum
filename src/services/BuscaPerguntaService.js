@@ -1,5 +1,4 @@
 class BuscaPerguntaService {
-    // Aplicação do DIP: Depende de uma abstração (repositório injetado), não do SQLite direto
     constructor(perguntaRepository) {
         this.repository = perguntaRepository;
     }
