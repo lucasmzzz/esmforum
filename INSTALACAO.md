@@ -14,5 +14,5 @@ O backend atua como a API RESTful do sistema.
 
 1. Clone o repositório do backend:
    ```bash
-   git clone [https://github.com/lucasmzzz/esmforum.git](https://github.com/lucasmzzz/esmforum.git)
+   git clone [https://github.com/lucasmzzz/esmforum.git]
    cd esmforum
