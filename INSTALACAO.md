@@ -4,7 +4,7 @@ Este documento descreve os passos necessários para configurar e executar o ambi
 
 ## 1. Pré-requisitos
 Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
-- **Node.js** (versão 16.x ou superior recomendada)
+- **Node.js** (versão 20.x ou superior recomendada)
 - **NPM** (gerenciador de pacotes padrão do Node)
 - **Git**
 
@@ -14,5 +14,5 @@ O backend atua como a API RESTful do sistema.
 
 1. Clone o repositório do backend:
    ```bash
-   git clone (https://github.com/lucasmzzz/esmforum)
+   git clone [https://github.com/lucasmzzz/esmforum.git](https://github.com/lucasmzzz/esmforum.git)
    cd esmforum
